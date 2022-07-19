@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, ainda estou pensando em como editar essa  área, aguarde ! 👋
 
 <!--
 **akiotnk00/akiotnk00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
