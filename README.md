@@ -1,8 +1,12 @@
 ### Olá bem-vindo ao meu Github!👋
 
 Estou atualizando aqui com meus projetos pessoais de pouco em pouco.
-Atualmente divido meu tempo com os seguintes estudos:
-Spring e Design Patterns.
+
+Atualmente divido meu tempo com os seguintes estudos: Spring e Design Patterns.
+
+Algumas ideias de projetos pessoas em desenvolvimento ou em fase de elaboração: Sistema de Chatbox e Aplicação de avaliações.
+
+contato: akiodevs@gmail.com
 
 
 <a href="https://github.com/akiotnk00">
