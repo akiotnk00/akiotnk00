@@ -1,10 +1,10 @@
-### Olá, bem-vindo ao meu Github!👋
+## Olá, bem-vindo ao meu Github!👋
 
-## Estou atualizando aqui com meus projetos pessoais de pouco em pouco.
+### Estou atualizando aqui com meus projetos pessoais de pouco em pouco.
 
-## Atualmente divido meu tempo com os seguintes estudos: Spring e Design Patterns.
+### Atualmente divido meu tempo com os seguintes estudos: Spring e Design Patterns.
 
-Meus conhecimentos:
+### Meus conhecimentos:
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -12,7 +12,7 @@ Meus conhecimentos:
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
-Já tive contato com:
+### Já tive contato com:
 
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
