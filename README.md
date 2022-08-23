@@ -4,7 +4,14 @@ Estou atualizando aqui com meus projetos pessoais de pouco em pouco.
 
 Atualmente divido meu tempo com os seguintes estudos: Spring e Design Patterns.
 
-Algumas ideias de projetos pessoas em desenvolvimento ou em fase de elaboração: Sistema de Chatbox e Aplicação de avaliações.
+Meus conhecimentos:
+
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+
 
 contato: akiodevs@gmail.com
 
