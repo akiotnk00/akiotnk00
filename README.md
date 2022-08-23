@@ -1,4 +1,4 @@
-### Olá bem-vindo ao meu Github!👋
+### Olá, bem-vindo ao meu Github!👋
 
 Estou atualizando aqui com meus projetos pessoais de pouco em pouco.
 
