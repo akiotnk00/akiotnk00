@@ -3,7 +3,7 @@
 
 ### Estou atualizando aqui com meus projetos pessoais de pouco em pouco.
 
-### Atualmente divido meu tempo com os seguintes estudos: Spring e Design Patterns.
+### Atualmente divido meu tempo com os seguintes estudos: Spring, Microservices e Design Patterns.
 
 ### Meus conhecimentos:
 
