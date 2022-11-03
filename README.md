@@ -1,4 +1,3 @@
-![image](https://media-exp1.licdn.com/dms/image/C4D16AQG3Inj9f1XbtA/profile-displaybackgroundimage-shrink_200_800/0/1657769092564?e=1666828800&v=beta&t=V8_4baI2nnxmq0Bn1pSzjZTym04OtbcJCyIEaBgz4k8)
 ## Olá, bem-vindo ao meu Github!👋
 
 ### Estou atualizando aqui com meus projetos pessoais de pouco em pouco.
