@@ -1,8 +1,6 @@
 ## Olá, bem-vindo ao meu Github!👋
 
-### Estou atualizando aqui com meus projetos pessoais de pouco em pouco.
-
-### Atualmente divido meu tempo com os seguintes estudos: Spring, Microservices e Design Patterns.
+### Aqui você encontrara alguns projetos meus.
 
 ### Meus conhecimentos:
 
