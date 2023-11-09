@@ -1,6 +1,6 @@
 ## Olá, bem-vindo ao meu Github!👋
 
-$\textcolor{white}{\Huge\text{Meus Conhecimentos:}}$
+$\textcolor{white}{\Large Meus conhecimentos atuais:}$
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
@@ -13,9 +13,7 @@ $\textcolor{white}{\Huge\text{Meus Conhecimentos:}}$
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-$\textcolor{blue}{\Huge\text{Versionamento:}}$
-
-$\textcolor{blue}{\Large Blue}$
+$\textcolor{white}{\Large Versionamento:}$
 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
