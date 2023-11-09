@@ -14,9 +14,9 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 $$
-\begin{flushleft}
+\begin{array}{l}
 \textcolor{red}{Red}
-\end{flushleft}
+\end{array}
 $$
 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
