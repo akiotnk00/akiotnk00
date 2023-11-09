@@ -1,6 +1,6 @@
 ## Olá, bem-vindo ao meu Github!👋
 
-$\textcolor{white}{\Large Meus conhecimentos atuais:}\hspace{0.5em}$
+$\textcolor{white}{\Large Meus conhecimentos atuais:}\quad$
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
