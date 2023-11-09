@@ -15,6 +15,14 @@
 
 $\textcolor{blue}{\Huge\text{Versionamento:}}$
 
+\documentclass{article}
+\usepackage{fontspec}
+\setmainfont{Segoe UI}
+
+\begin{document}
+$\textcolor{blue}{\Huge\text{Blue}}$
+\end{document}
+
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
