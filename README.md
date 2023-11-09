@@ -46,4 +46,4 @@ $\textcolor{white}{\Large Já}\ \textcolor{white}{\Large tive}\ \textcolor{white
 
 
 
-### contato: akiodevs@gmail.com
+$\textcolor{white}{\Large Contato:}$ akiodevs@gmail.com
