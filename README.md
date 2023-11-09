@@ -17,10 +17,9 @@ $\textcolor{blue}{\Huge\text{Versionamento:}}$
 
 \documentclass{article}
 \usepackage{xcolor}
-\usepackage{sfmath}
 
 \begin{document}
-\textcolor{blue}{\Huge\textsf{Blue}}
+\textcolor{blue}{\Huge\texttt{Blue}}
 \end{document}
 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
